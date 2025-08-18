@@ -1,4 +1,4 @@
-/*
+d/*
 * LittleLink Button Styles
 * https://littlelink.io
 * Free to use under the MIT license
@@ -140,6 +140,12 @@
 .button-cash-app {
 	--button-text:#ffffff;
 	background-image:linear-gradient(to bottom,#00d64b,#00c244);
+}
+
+/* Chaturbate */
+.button-chaturbate {
+	--button-text:#FFFFFF;
+	--button-background:#f4721a;
 }
 
 /* dev.to */
