@@ -413,6 +413,13 @@
   --button-border:1px solid #FFFFFF;
 }
 
+/* PoE2 */
+.button-poe2 {
+	--button-text:#ffffff;
+	--button-background:#c0b486;
+	--button-border:1px solid #5f4f26;
+}
+
 /* Pinterest */
 .button-pinterest {
 	--button-text:#000000;
